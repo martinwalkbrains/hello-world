@@ -1,2 +1,4 @@
 # hello-world
-my first repositoy
+
+Hi! Martin here, i like codes.
+Let's we build new things to this world!
